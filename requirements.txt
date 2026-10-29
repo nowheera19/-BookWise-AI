@@ -1,0 +1,9 @@
+
+streamlit
+transformers
+peft
+accelerate
+bitsandbytes
+torch
+sentence-transformers
+PyPDF2
